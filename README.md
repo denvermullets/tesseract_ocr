@@ -8,10 +8,11 @@ node index.js
 
 This is just a first attempt at getting image transcription to work.
 
-
-
-
  ### Chris Paul original image spit out this, 1st line is VERY accurate, the rest not so much
+
+chris paul original
+![CP3](https://i.imgur.com/ULlNBw2.png)
+
 ```
  1 4
  . . -
@@ -29,6 +30,10 @@ This is just a first attempt at getting image transcription to work.
  ```
 
  ### Chris Paul black and white w/contrast curve applied, again 1st line very accurate due to highlight
+
+bw w/contrast
+![CP3](https://i.imgur.com/oT5IpQ2.png)
+
  ```
  WERSIMPLEVEW i il R bt
  e ) -
@@ -49,6 +54,10 @@ This is just a first attempt at getting image transcription to work.
  ```
 
  ### Chris Paul just stats, bw w/contrast, the line that was previously accurate is no longer super accurate
+
+cropped to just stats, bw w/contrast
+![CP3](https://i.imgur.com/AJIx2S2.png)
+
  ```
  RS-t T N
  ki 19 6 6 1 0 4 R[] B YE¥ 0 2
@@ -57,6 +66,9 @@ This is just a first attempt at getting image transcription to work.
  ```
 
  ### Chris Paul just stats, bw w/contrast then inverted
+
+cropped to just stats, bw w/contrast then inverted
+![CP3](https://i.imgur.com/qLuxipP.png)
 
  first line has a highlight from being 'selected' and is the least accurate. the 3 remaining lines are perfect
 
@@ -68,6 +80,9 @@ This is just a first attempt at getting image transcription to work.
  ```
 
  ### Chris Paul just stats, bw w/contrast, then inverted, and cropped out the highlighted bar
+
+cropped to just stats, bw w/contrast then inverted just cropped out highlight bar
+![CP3](https://i.imgur.com/1KxK1AY.png)
 
  perfect transcription
 
